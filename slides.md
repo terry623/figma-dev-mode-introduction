@@ -20,6 +20,13 @@ layout: center
 # 並減少開發誤差，讓設計落地更精準、快速
 
 ---
+
+設計稿轉成程式碼，三大功能
+1. Official MCP Server -> 大
+2. Code Connect -> 中
+3. Link Dev Resources -> 小
+
+---
 layout: section
 ---
 
@@ -56,11 +63,21 @@ layout: section
 資源可包含：Gitea Link, Jira, Storybook, VS Code Deep‑Link
 
 ---
-layout: section
+layout: center
 ---
 
-# Inspect 面板
+# 透過以上的工具，可以讓設計稿變成程式碼的過程，更加自動化，減少人為介入造成的摩擦損失
 
 ---
+layout: center
+---
 
-???
+下一步？
+
+---
+layout: center
+---
+
+# 使用 Figma Dev Mode 需要方案開啟 Dev Seat
+# 目前是 Organization 方案，Dev Seat 是 $25/mo
+# 因為是按年繳，所以是大約 300 美金，約 8800 台幣
