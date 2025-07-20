@@ -170,4 +170,4 @@ layout: center
 - **以年計算**：$300（約 NT$8,800）
 - **Organization 方案**：已具備該條件
 
-**可先買 1 個 Dev Seat 讓 FE Team 使用！**
+**可以先買 1 個 Dev Seat 讓 FE Team 使用！**
