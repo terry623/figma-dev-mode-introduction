@@ -23,22 +23,44 @@ layout: center
 layout: section
 ---
 
-# Official MCP Server
+# [Official MCP Server](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server)
 
-https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server
+---
+
+工程師平常會使用如 Roo Code, Cline 等 AI Agent 工具幫助開發
+透過只有 Dev Mode 才能使用的 Official Figma MCP
+AI Agent 能直接從 Figma 獲取最原始完整的設計稿完整資料
+透過 AI 的力量將這些設計稿完整資料轉成 Code
+對於工程師來說非常省時又省力
 
 ---
 layout: section
 ---
 
-# Code Connect
+# [Code Connect](https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect)
 
-https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect
+---
+
+開發者在 Figma 中直接看到真實程式碼而非自動生成片段。
 
 ---
 layout: section
 ---
 
-# Link Dev Resources
+# [Link Dev Resources](https://help.figma.com/hc/en-us/articles/15023231995927-Link-Dev-resources-to-layers-in-Dev-Mode)
 
-https://help.figma.com/hc/en-us/articles/15023231995927-Link-Dev-resources-to-layers-in-Dev-Mode
+---
+
+讓設計師與開發者能將外部開發資訊連結到 Figma 中。
+
+資源可包含：Gitea Link, Jira, Storybook, VS Code Deep‑Link
+
+---
+layout: section
+---
+
+# Inspect 面板
+
+---
+
+???
