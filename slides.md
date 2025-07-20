@@ -1,6 +1,6 @@
 ---
 theme: default
-background: './images/background.webp'
+background: "./images/background.webp"
 title: Figma Dev Mode Introduction - Terry Lin
 drawings:
   persist: false
@@ -64,14 +64,22 @@ MCP 讓 AI Agent 直接與 Figma 溝通
 ## 使用流程
 - 工程師使用 AI Agent 工具（如 Roo Code, Cline）
 - 透過 Official Figma MCP 連接設計稿
-- AI 直接讀取完整的設計資料
-- 自動生成對應的程式碼
+- AI 直接讀取完整設計資料，自動生成對應程式碼
 
 ## 核心優勢
 - 🎯 **精準度高**：直接讀取原始設計資料
 - ⚡ **效率提升**：省去手動測量和轉換
 - 🔄 **即時同步**：設計更新時程式碼可快速調整
 - 🏆 **官方支援**：相較第三方 Figma MCP 有更高精準度
+
+---
+layout: center
+---
+
+<video controls width="500px">
+  <source src="/videos/mcp.mov">
+  Your browser does not support the video tag.
+</video>
 
 ---
 layout: section
@@ -94,6 +102,15 @@ layout: section
 - 🔗 **設計與程式碼同步**：確保設計稿反映實際實作
 - 📚 **程式碼文檔化**：設計稿成為活的程式碼文檔
 - 🤝 **團隊協作**：設計師能看到實際的實作方式
+
+---
+layout: center
+---
+
+<video controls width="500px">
+  <source src="/videos/code-connect.mov">
+  Your browser does not support the video tag.
+</video>
 
 ---
 layout: section
@@ -119,6 +136,12 @@ layout: section
 - 🚀 **提升效率**：減少在不同工具間切換的時間
 
 ---
+layout: image
+image: /images/dev-resources.png
+backgroundSize: 50%
+---
+
+---
 layout: center
 ---
 
@@ -141,10 +164,10 @@ layout: center
 layout: center
 ---
 
-# 導入成本與效益
+# 導入成本
 
 - **Dev Seat 費用**：$25/月
-- **年費**：$300（約 NT$8,800）
+- **以年計算**：$300（約 NT$8,800）
 - **Organization 方案**：已具備該條件
 
-**可以先買一個帳號讓 FE Team 實際使用於工作**
+**可先買 1 個 Dev Seat 讓 FE Team 使用！**
