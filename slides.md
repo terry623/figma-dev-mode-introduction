@@ -46,8 +46,8 @@ layout: center
 | 功能 | 影響程度 | 說明 |
 |------|----------|------|
 | Official MCP Server | 🔥 高 | AI 直接讀取設計稿生成程式碼 |
-| Code Connect | 🔥 中 | 在設計稿中顯示真實程式碼 |
-| Link Dev Resources | 🔥 低 | 連結外部開發資源 |
+| Link Dev Resources | 🔥 中 | 連結外部開發資源 |
+| Figma for VS Code | 🔥 低 | 在 VS Code 中直接檢視和檢查設計稿 |
 
 ---
 layout: section
@@ -85,37 +85,6 @@ layout: center
 layout: section
 ---
 
-# [Code Connect](https://help.figma.com/hc/en-us/articles/23920389749655-Code-Connect)
-
----
-
-# 什麼是 Code Connect？
-
-連接設計元件與真實程式碼的橋樑
-
-## 核心概念
-- 在 Figma 設計稿中直接顯示**真實的程式碼**
-- 不是自動生成的程式碼片段
-- 由開發團隊維護和更新
-
-## 實際效益
-- 🔗 **設計與程式碼同步**：確保設計稿反映實際實作
-- 📚 **程式碼文檔化**：設計稿成為活的程式碼文檔
-- 🤝 **團隊協作**：設計師能看到實際的實作方式
-
----
-layout: center
----
-
-<video controls width="500px">
-  <source src="/videos/code-connect.mov">
-  Your browser does not support the video tag.
-</video>
-
----
-layout: section
----
-
 # [Link Dev Resources](https://help.figma.com/hc/en-us/articles/15023231995927-Link-Dev-resources-to-layers-in-Dev-Mode)
 
 ---
@@ -125,10 +94,10 @@ layout: section
 將外部開發資源直接連結到設計元件
 
 ## 資源類型範例
-- 📝 **Jira**：連結需求票券和 Bug 報告
-- 🔗 **Gitea Link**：連結相關的程式碼儲存庫
-- 📖 **Storybook**：連結元件文檔和範例
-- 💻 **VS Code Deep‑Link**：直接開啟對應的程式碼檔案
+- Jira：連結需求票券和 Bug 報告
+- Gitea Link：連結相關的程式碼儲存庫
+- Storybook：連結元件文檔和範例
+- VS Code Deep‑Link：直接開啟對應的程式碼檔案
 
 ## 實際效益
 - 🎯 **快速定位**：從設計稿直接跳轉到相關資源
@@ -138,6 +107,35 @@ layout: section
 ---
 layout: image
 image: /images/dev-resources.png
+backgroundSize: 50%
+---
+
+---
+layout: section
+---
+
+# Figma for VS Code
+
+---
+
+# 什麼是 Figma for VS Code？
+
+直接在 VS Code 中檢視和檢查 Figma 設計稿
+
+## 核心功能
+- 在 VS Code 中直接開啟和檢視設計檔案
+- 檢查設計元件並獲得程式碼建議
+- 即時查看和回應評論與活動
+
+## 核心優勢
+- 🚀 **無縫整合**：無需離開開發環境
+- 💬 **即時協作**：直接在 VS Code 中查看評論
+- 🎯 **精準檢查**：完整的設計檢查功能
+- 📝 **程式碼建議**：基於設計的自動完成建議
+
+---
+layout: image
+image: /images/vscode.gif
 backgroundSize: 50%
 ---
 
